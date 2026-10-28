@@ -17,3 +17,5 @@ Email from supplied flyer: Bigfivewaterproofer415@gmail.com
 Contact form: opens WhatsApp with the visitor's message pre-filled. It does not store form submissions or send email automatically.
 
 Service area: the client has not supplied confirmed towns/suburbs, so the site asks visitors to share their area rather than claiming unsupported coverage.
+
+Additional client-supplied project photographs from Construction2.zip have been added to the gallery. Promotional flyers and logo artwork are not included in the gallery.
